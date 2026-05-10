@@ -1,0 +1,513 @@
+{
+  "updated": "2026-05-10",
+  "activeMonth": 5,
+  "family": {
+    "members": [
+      "Tom",
+      "Lenka",
+      "Matyáš",
+      "Elinka"
+    ]
+  },
+  "cashflow": {
+    "income": [
+      {
+        "name": "Ostatní příjmy",
+        "owner": "Tom",
+        "type": "pasivum",
+        "entity": "FO",
+        "icon": "💼",
+        "day": 0,
+        "month": 45000,
+        "year": 0
+      },
+      {
+        "name": "Marketing - U Kelta",
+        "owner": "Tom",
+        "type": "aktivum",
+        "entity": "TC",
+        "icon": "📣",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Marketing - Sazka",
+        "owner": "Tom",
+        "type": "aktivum",
+        "entity": "TC",
+        "icon": "🎯",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Automaty",
+        "owner": "Tom",
+        "type": "pasivum",
+        "entity": "FO",
+        "icon": "🎰",
+        "day": 0,
+        "month": 1000,
+        "year": 0
+      },
+      {
+        "name": "Rodičovská",
+        "owner": "Lenka",
+        "type": "pasivum",
+        "entity": "FO",
+        "icon": "👶",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "BF bazar",
+        "owner": "Tom & Lenka",
+        "type": "aktivum",
+        "entity": "FO",
+        "icon": "♻️",
+        "day": 23013698630136984,
+        "month": 7000,
+        "year": 84000
+      }
+    ],
+    "totalIncome": 87000,
+    "expenses": [
+      {
+        "name": "ETF Degiro + XTB",
+        "owner": "Tom",
+        "type": "spoření",
+        "entity": "FO",
+        "icon": "📈",
+        "day": 1643835616438356,
+        "month": 5000,
+        "year": 60000
+      },
+      {
+        "name": "Maty spoření",
+        "owner": "Tom",
+        "type": "spoření",
+        "entity": "FO",
+        "icon": "🐣",
+        "day": 3287671232876713,
+        "month": 1000,
+        "year": 12000
+      },
+      {
+        "name": "Ella spoření",
+        "owner": "Tom",
+        "type": "spoření",
+        "entity": "FO",
+        "icon": "🌸",
+        "day": 3287671232876713,
+        "month": 1000,
+        "year": 12000
+      },
+      {
+        "name": "hypotéky 1+2",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "🏠",
+        "day": 7561643835616438,
+        "month": 23000,
+        "year": 276000
+      },
+      {
+        "name": "Maty školka",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "TC",
+        "icon": "🏫",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "životko",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "💊",
+        "day": 0,
+        "month": 820,
+        "year": 9840
+      },
+      {
+        "name": "elektřina záloha",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "⚡",
+        "day": 19726027397260270,
+        "month": 6000,
+        "year": 72000
+      },
+      {
+        "name": "Netflix",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "SW",
+        "icon": "🎬",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Wifi O2",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "SW",
+        "icon": "📶",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Jablotron",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "🔔",
+        "day": 19726027397260270,
+        "month": 60,
+        "year": 720
+      },
+      {
+        "name": "Pojištění úvěrů 1+2",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "🛡",
+        "day": 25512328767123290,
+        "month": 776,
+        "year": 9312
+      },
+      {
+        "name": "Pojištění domu",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "🏡",
+        "day": 1917808219178082,
+        "month": 5833333333333334,
+        "year": 7000
+      },
+      {
+        "name": "Tesla model Y",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "TC",
+        "icon": "🚗",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Jídlo",
+        "owner": "Lenka",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "🛒",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Tom ostatní",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "📦",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Lenka ostatní",
+        "owner": "Lenka",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "👜",
+        "day": 0,
+        "month": 0,
+        "year": 0
+      },
+      {
+        "name": "Dovolené",
+        "owner": "Tom",
+        "type": "výdaj",
+        "entity": "FO",
+        "icon": "✈️",
+        "day": 0,
+        "month": 0,
+        "year": 100000
+      }
+    ],
+    "totalExpenses": 65039333333333336,
+    "balance": 21960666666666664
+  },
+  "monthly": {
+    "months": [
+      "Led",
+      "Úno",
+      "Bře",
+      "Dub",
+      "Kvě",
+      "Čer",
+      "Čvc",
+      "Srp",
+      "Zář",
+      "Říj",
+      "Lis",
+      "Pro"
+    ],
+    "fullMonths": [
+      "Leden",
+      "Únor",
+      "Březen",
+      "Duben",
+      "Květen",
+      "Červen",
+      "Červenec",
+      "Srpen",
+      "Září",
+      "Říjen",
+      "Listopad",
+      "Prosinec"
+    ],
+    "tomIncome": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lenkaIncome": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "familyCosts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lenkaCosts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "otherExpenses": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "investOut": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "investIn": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalIncome": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "totalExpenses": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "vh": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "investValue": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "assets": [
+    {
+      "name": "RD Řitka",
+      "icon": "🏡",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Antala Staška 35%",
+      "icon": "🏢",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Degiro",
+      "icon": "📈",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "XTB",
+      "icon": "📊",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Portu",
+      "icon": "💼",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Zlato",
+      "icon": "🪙",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Crypto",
+      "icon": "₿",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Auto",
+      "icon": "🚗",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "Tomas challenge",
+      "icon": "🏋️",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    },
+    {
+      "name": "SportWave",
+      "icon": "🌊",
+      "value": 0,
+      "debt": 0,
+      "mirek": 0
+    }
+  ],
+  "assetsSummary": {
+    "totalValue": 0,
+    "totalDebt": 0,
+    "mirekDebt": 0,
+    "debtRatio": 0
+  }
+}
