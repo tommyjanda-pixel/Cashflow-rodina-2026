@@ -435,7 +435,7 @@
       "name": "Antala Staška 35%",
       "icon": "🏢",
       "value": 2520000,
-      "debt": 0,
+      "debt": 1820000,
       "mirek": 0
     },
     {
@@ -497,8 +497,8 @@
   ],
   "assetsSummary": {
     "totalValue": 25659219,
-    "totalDebt": 4900000,
+    "totalDebt": 6720000,
     "mirekDebt": 2000000,
-    "debtRatio": 0.19
+    "debtRatio": 0.26
   }
 }
