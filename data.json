@@ -477,7 +477,7 @@
       "name": "Auto",
       "icon": "🚗",
       "value": 700000,
-      "debt": 600000,
+      "debt": 400000,
       "mirek": 0
     },
     {
@@ -497,7 +497,7 @@
   ],
   "assetsSummary": {
     "totalValue": 25598719,
-    "totalDebt": 6520000,
+    "totalDebt": 6320000,
     "mirekDebt": 0,
     "debtRatio": 0.25
   }
