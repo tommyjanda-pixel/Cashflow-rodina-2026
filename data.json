@@ -256,9 +256,9 @@
         "type": "spoření",
         "entity": "FO",
         "icon": "📈",
-        "day": 164,
-        "month": 5000,
-        "year": 60000
+        "day": 0,
+        "month": 0,
+        "year": 0
       },
       {
         "name": "Maty spoření",
@@ -421,7 +421,7 @@
         "year": 100000
       }
     ],
-    "totalExpenses": 52239
+    "totalExpenses": 47239
   },
   "assets": [
     {
