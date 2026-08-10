@@ -491,14 +491,14 @@
       "name": "SportWave",
       "icon": "🌊",
       "value": 500000,
-      "debt": 200000,
+      "debt": 0,
       "mirek": 0
     }
   ],
   "assetsSummary": {
     "totalValue": 25598719,
-    "totalDebt": 6720000,
+    "totalDebt": 6520000,
     "mirekDebt": 0,
-    "debtRatio": 0.26
+    "debtRatio": 0.25
   }
 }
