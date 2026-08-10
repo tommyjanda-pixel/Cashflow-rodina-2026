@@ -194,7 +194,7 @@
         "entity": "FO",
         "icon": "💼",
         "day": 0,
-        "month": 45000,
+        "month": 0,
         "year": 0
       },
       {
@@ -248,7 +248,7 @@
         "year": 84000
       }
     ],
-    "totalIncome": 99500,
+    "totalIncome": 54500,
     "expenses": [
       {
         "name": "ETF Degiro + XTB",
