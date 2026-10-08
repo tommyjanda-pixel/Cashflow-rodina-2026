@@ -101,16 +101,16 @@
       0
     ],
     "investOut": [
-      125000,
-      0,
-      94000,
       0,
       0,
       0,
       0,
       0,
-      50000,
-      30000,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ],
@@ -469,7 +469,7 @@
     {
       "name": "Crypto",
       "icon": "₿",
-      "value": 3969,
+      "value": 0,
       "debt": 0,
       "mirek": 0
     },
@@ -496,7 +496,7 @@
     }
   ],
   "assetsSummary": {
-    "totalValue": 25535469,
+    "totalValue": 25531500,
     "totalDebt": 6320000,
     "mirekDebt": 0,
     "debtRatio": 0.25
