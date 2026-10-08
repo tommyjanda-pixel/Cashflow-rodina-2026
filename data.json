@@ -469,7 +469,7 @@
     {
       "name": "Crypto",
       "icon": "₿",
-      "value": 0,
+      "value": 3969,
       "debt": 0,
       "mirek": 0
     },
@@ -496,7 +496,7 @@
     }
   ],
   "assetsSummary": {
-    "totalValue": 25531500,
+    "totalValue": 25535469,
     "totalDebt": 6320000,
     "mirekDebt": 0,
     "debtRatio": 0.25
