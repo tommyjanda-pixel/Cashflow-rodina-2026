@@ -286,9 +286,9 @@
         "type": "výdaj",
         "entity": "FO",
         "icon": "🏠",
-        "day": 756,
-        "month": 23000,
-        "year": 276000
+        "day": 822,
+        "month": 25000,
+        "year": 300000
       },
       {
         "name": "Maty školka",
@@ -421,7 +421,7 @@
         "year": 100000
       }
     ],
-    "totalExpenses": 63439
+    "totalExpenses": 65439
   },
   "assets": [
     {
